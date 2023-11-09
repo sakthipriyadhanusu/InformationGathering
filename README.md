@@ -43,38 +43,13 @@ ip2location.com website.
 ![image](https://github.com/sakthipriyadhanusu/InformationGathering/assets/119393194/f8fad054-384b-4d13-99c3-a13ecbe4fe04)
 
 ## HISTORY OF WEBSITE:
-## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/InformationGathering/assets/119393194/4dce0baf-662e-4dc6-a541-8b50b9a31f77)
-
-## Webserver Fingerprinting:
-Netcat: sudo nc example.com 80 GET / HTTP/1.1 Host: example.com
 
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/InformationGathering/assets/119393194/ea0d4066-785e-498d-83e8-87cddad0a01e)
+```
+https://web.archive.org/
+```
+![image](https://github.com/sakthipriyadhanusu/InformationGathering/assets/119393194/5611a9f5-0ac8-4f86-80a1-32fcb60106c6)
 
-## nmap
-## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/InformationGathering/assets/119393194/042505ff-608f-4bb0-b7e3-0f565935eb0f)
-
-## whatweb
-## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/InformationGathering/assets/119393194/ca8a09e0-77ce-47a9-8b38-8273e36fdefe)
-
-## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/InformationGathering/assets/119393194/9813de26-6e13-4b8e-9a67-5c5e9455d25a)
-
-## Tracing the location
-TCP Traceroute- sudo traceroute -T www.google.com
-## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/InformationGathering/assets/119393194/9ed5b693-90e9-40be-ab90-7aa443e83ba4)
-UDP Traceroute: sudo traceroute -U www.google.com
-
-## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/InformationGathering/assets/119393194/45e62045-712e-4f9a-9d88-360163025bf8)
-
-ICMP Traceroute: sudo traceroute www.google.com
-## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/InformationGathering/assets/119393194/8f0d0e01-13eb-4caf-8231-48b6454e9beb)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
